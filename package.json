@@ -14,7 +14,7 @@
     "redux",
     "treehouse"
   ],
-  "author": "Beau Palmquist",
+  "author": "Oluwatosin Solarin",
   "license": "MIT",
   "dependencies": {
     "react": "^15.3.2",
